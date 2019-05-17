@@ -10,6 +10,6 @@
 ``` python -m pip install --upgrade pip ``` 升级最新 pip  
 ``` pip install opencv-python==3.4.2.16 ```  
 ``` pip install opencv-contrib-python==3.4.2.16 ```  
-*Tips: 若安下载缓慢，建议将pip源换为国内的源*
+*Tips: 若安下载缓慢，建议将pip源换为国内的源*  
 etc  
 
