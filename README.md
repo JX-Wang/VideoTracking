@@ -6,9 +6,8 @@
 开发IDE ``` PyCharm ```  
 托管平台 ``` Github ```  
 
-依赖包安装
+依赖包安装  
 ``` python -m pip install --upgrade pip ``` 升级最新 pip  
 ``` pip install opencv-python ``` ``` pip install opencv-contrib-python ```  
-
 etc  
 
